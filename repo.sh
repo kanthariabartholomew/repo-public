@@ -4,7 +4,7 @@
 NUM_COMMITS=12
 
 # Start date (modify as needed)
-START_DATE="2024-12-23T20:17:35+07:00"
+START_DATE="2024-1-23T20:17:35+07:00"
 
 # Convert start date to seconds
 CURRENT_DATE=$(date -d "$START_DATE" +%s)
